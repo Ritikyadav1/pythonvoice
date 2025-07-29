@@ -1,0 +1,4 @@
+SpeechRecognition
+pywhatkit
+python-dotenv
+PyAudio
